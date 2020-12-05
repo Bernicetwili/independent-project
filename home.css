@@ -7,3 +7,12 @@ img{
 body{
     background-color: #ffdecf;
 }
+h1{
+    color: #595238;
+}
+.description{
+    background-color: #87431d;
+}
+.about{
+    text-align: center;
+}
